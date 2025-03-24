@@ -1,2 +1,4 @@
 # Mini project section
-<p>Css flag project</p>
+<ol>
+    <li>Css flag project</li>
+</ol>
