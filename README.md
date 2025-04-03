@@ -8,4 +8,5 @@
             <li>simple dice game showing usage of DOM</li>
         </ul>
     </li>
+    <li>Added drum kit project</li>
 </ol>
