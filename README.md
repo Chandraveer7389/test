@@ -13,4 +13,5 @@
             <li>simple key and mouse click drum project</li>
         </ul>
     </li>
+    <li>Simon game</li>
 </ol>
